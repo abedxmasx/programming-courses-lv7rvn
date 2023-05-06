@@ -5,6 +5,6 @@
 let num1: number;
 let num2: number;
 num1 = 12;
-num2 + 66;
+num2 = 66;
 
 console.log(num2);
